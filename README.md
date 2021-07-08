@@ -38,6 +38,7 @@ Company wants to automate the loan eligibility process (real time) based on cust
     Loan_Status |	(Target) Loan approved (Y/N)
     
  3. test.csv = CSV File for test datset
+ 
     Features in Dataset
     
      Column Name | Meaning
