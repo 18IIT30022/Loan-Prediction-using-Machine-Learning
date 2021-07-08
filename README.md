@@ -16,3 +16,40 @@ Company wants to automate the loan eligibility process (real time) based on cust
  
  ## Guide to Repository
  # DataSet
+ 1. train.csv = CSV File for training Dataset
+ 
+    Variable 	Description
+    Loan_ID 	Unique Loan ID
+    Gender 	Male/ Female
+    Married 	Applicant married (Y/N)
+    Dependents 	Number of dependents
+    Education 	Applicant Education (Graduate/ Under Graduate)
+    Self_Employed 	Self employed (Y/N)
+    ApplicantIncome 	Applicant income
+    CoapplicantIncome 	Coapplicant income
+    LoanAmount 	Loan amount in thousands
+    Loan_Amount_Term 	Term of loan in months
+    Credit_History 	credit history meets guidelines
+    Property_Area 	Urban/ Semi Urban/ Rural
+    Loan_Status 	(Target) Loan approved (Y/N)
+    
+ 3. test.csv = CSV File for test datset
+    Features in Dataset
+    Loan_ID 	Unique Loan ID
+    Gender 	Male/ Female
+    Married 	Applicant married (Y/N)
+    Dependents 	Number of dependents
+    Education 	Applicant Education (Graduate/ Under Graduate)
+    Self_Employed 	Self employed (Y/N)
+    ApplicantIncome 	Applicant income
+    CoapplicantIncome 	Coapplicant income
+    LoanAmount 	Loan amount in thousands
+    Loan_Amount_Term 	Term of loan in months
+    Credit_History 	credit history meets guidelines
+    Property_Area 	Urban/ Semi Urban/ Rural
+
+# Models
+1. EDA.ipynb = Data Analysis part code in Jupyter Notebook
+2. Model.ipynb = Trained models and their accuracy score on Training Dataset
+
+ 
