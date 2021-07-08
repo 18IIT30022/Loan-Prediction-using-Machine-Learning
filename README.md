@@ -21,7 +21,7 @@ Company wants to automate the loan eligibility process (real time) based on cust
      Variable 	Description
      
      
-      First Header | Second Header
+      Column Name | Meaning
     ------------ | -------------
     Loan_ID |	Unique Loan ID
     Gender |	Male/ Female
@@ -40,7 +40,7 @@ Company wants to automate the loan eligibility process (real time) based on cust
  3. test.csv = CSV File for test datset
     Features in Dataset
     
-     First Header | Second Header
+     Column Name | Meaning
     ------------ | -------------
     Loan_ID |	Unique Loan ID
     Gender |	Male/ Female
